@@ -36,4 +36,4 @@ economico yse tubo que dejar a medias.
 
 ##### Filo superior
 
-![]()
+![](https://github.com/Baultek/3-Trimestre/blob/main/Imagenes%203%20Trimestre/Filo.png?raw=true)
