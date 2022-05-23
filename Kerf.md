@@ -13,7 +13,7 @@ flexible aun asi siendo poco flexible el material.
 
 ---
 
-### Pruebas
+### Ejercicios
 
 ```
 
