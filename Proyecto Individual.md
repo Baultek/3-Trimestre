@@ -17,3 +17,15 @@ el material y ver con claridad,lamentablemente el proyecto no tubo suficiente ti
 economico yse tubo que dejar a medias.
 
 ```
+
+---
+
+### Fotos
+
+![](https://github.com/Baultek/3-Trimestre/blob/main/Imagenes%203%20Trimestre/Tapa.png?raw=true)
+
+![]()
+
+![]()
+
+![]()
