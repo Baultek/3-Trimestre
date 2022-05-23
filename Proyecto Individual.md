@@ -32,7 +32,7 @@ economico yse tubo que dejar a medias.
 
 ##### Filo inferior
 
-![]()
+![](https://github.com/Baultek/3-Trimestre/blob/main/Imagenes%203%20Trimestre/Filo%20inferior.png?raw=true)
 
 ##### Filo superior
 
