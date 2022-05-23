@@ -24,7 +24,7 @@ economico yse tubo que dejar a medias.
 
 ![](https://github.com/Baultek/3-Trimestre/blob/main/Imagenes%203%20Trimestre/Tapa.png?raw=true)
 
-![]()
+![](https://github.com/Baultek/3-Trimestre/blob/main/Imagenes%203%20Trimestre/Mango.png?raw=true)
 
 ![]()
 
