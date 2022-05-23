@@ -22,10 +22,18 @@ economico yse tubo que dejar a medias.
 
 ### Fotos
 
+##### Tapa
+
 ![](https://github.com/Baultek/3-Trimestre/blob/main/Imagenes%203%20Trimestre/Tapa.png?raw=true)
+
+##### Mango
 
 ![](https://github.com/Baultek/3-Trimestre/blob/main/Imagenes%203%20Trimestre/Mango.png?raw=true)
 
+##### Filo inferior
+
 ![]()
+
+##### Filo superior
 
 ![]()
